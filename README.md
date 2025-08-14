@@ -27,7 +27,7 @@ Check out [`careers-at-Oaktree`](https://github.com/GitHired/careers-at-Oaktree)
 - [Technical Glossary](https://github.com/GitHired/glossary)
 
 ## 📬 Want to Join?
-We welcome passionate developers! Submit an issue here or in [`careers-at-Oaktree`](https://github.com/GitHired/careers-at-Oaktree), or reach out via [LinkedIn](https://www.linkedin.com/company/oak-tree-software) to express interest.
+We welcome passionate developers! Submit an issue here or in [`careers-at-Oaktree`](https://github.com/GitHired/careers-at-Oaktree), or reach out via [Job Application Form](https://forms.gle/ciQgbaATJdtp5rKy8)to express interest.
 
 ---
 
